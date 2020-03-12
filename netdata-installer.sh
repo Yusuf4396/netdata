@@ -1499,4 +1499,4 @@ fi
 
 echo >&2 "  enjoy real-time performance and health monitoring..."
 echo >&2
-exit 0
+exit 1
